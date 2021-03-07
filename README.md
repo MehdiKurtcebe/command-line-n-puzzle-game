@@ -23,7 +23,7 @@ This game has been written according to c++11 standard.
 
 ## How to Start
 
-### `./program`D
+### `./program`
 
 ## Images
 
